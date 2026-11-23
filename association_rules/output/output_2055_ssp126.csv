@@ -1,0 +1,65 @@
+antecedents;consequents;antecedent support;consequent support;support;confidence;lift;leverage;conviction;zhangs_metric
+frozenset({'OLD_min_mite', 'OLD_max_caldo'});frozenset({'NEW_min_mite'});0.267556;0.384932;0.197131;0.736783;1.914061;0.09414;2.336734;0.651996
+frozenset({'OLD_min_mite'});frozenset({'NEW_min_mite'});0.395867;0.384932;0.279896;0.707045;1.836806;0.127514;2.099532;0.7541
+frozenset({'OLD_min_freddo', 'OLD_max_freddo'});frozenset({'NEW_min_freddo'});0.099819;0.392456;0.069723;0.698492;1.779799;0.030548;2.015021;0.486723
+frozenset({'OLD_min_freddo'});frozenset({'NEW_min_freddo'});0.433287;0.392456;0.288624;0.666126;1.697328;0.118578;1.819683;0.72495
+frozenset({'OLD_max_mite', 'OLD_min_freddo'});frozenset({'NEW_min_freddo'});0.257524;0.392456;0.171248;0.664979;1.694403;0.070181;1.813449;0.551966
+frozenset({'OLD_max_freddo'});frozenset({'NEW_min_freddo'});0.158206;0.392456;0.104835;0.662651;1.688472;0.042746;1.800934;0.48438
+frozenset({'OLD_max_mite', 'OLD_min_mite'});frozenset({'NEW_min_mite'});0.045445;0.384932;0.029996;0.660044;1.714704;0.012503;1.809259;0.436653
+frozenset({'OLD_min_mite', 'OLD_max_molto_caldo'});frozenset({'NEW_min_mite'});0.079354;0.384932;0.051063;0.643489;1.671697;0.020518;1.725245;0.436439
+frozenset({'OLD_max_caldo'});frozenset({'NEW_min_mite'});0.353832;0.384932;0.226926;0.641338;1.666109;0.090725;1.714898;0.618723
+frozenset({'OLD_min_molto_freddo', 'OLD_max_freddo'});frozenset({'NEW_min_freddo'});0.052468;0.392456;0.033407;0.636711;1.622377;0.012816;1.672345;0.404863
+frozenset({'OLD_max_mite', 'OLD_min_freddo'});frozenset({'NEW_max_mite'});0.257524;0.347111;0.162821;0.632256;1.821481;0.073432;1.775388;0.607422
+frozenset({'OLD_min_freddo', 'OLD_max_caldo'});frozenset({'NEW_min_freddo'});0.075943;0.392456;0.047652;0.627477;1.598847;0.017848;1.63089;0.405331
+frozenset({'OLD_min_caldo', 'OLD_max_molto_caldo'});frozenset({'NEW_min_caldo'});0.027689;0.113864;0.017155;0.619565;5.441256;0.014002;2.329271;0.839462
+frozenset({'OLD_min_molto_freddo'});frozenset({'NEW_min_freddo'});0.114366;0.392456;0.070626;0.617544;1.573537;0.025742;1.588533;0.411557
+frozenset({'OLD_min_caldo'});frozenset({'NEW_min_caldo'});0.045245;0.113864;0.027588;0.609756;5.355109;0.022437;2.270723;0.851802
+frozenset({'OLD_max_mite'});frozenset({'NEW_min_freddo'});0.369282;0.392456;0.223816;0.606085;1.54434;0.078889;1.542324;0.558846
+frozenset({'OLD_max_mite', 'OLD_min_molto_freddo'});frozenset({'NEW_min_freddo'});0.060995;0.392456;0.036717;0.601974;1.533863;0.01278;1.526392;0.37066
+frozenset({'OLD_max_mite', 'OLD_min_molto_freddo'});frozenset({'NEW_max_mite'});0.060995;0.347111;0.036517;0.598684;1.724764;0.015345;1.626872;0.447506
+frozenset({'OLD_max_mite'});frozenset({'NEW_max_mite'});0.369282;0.347111;0.219302;0.59386;1.710867;0.09112;1.607549;0.658774
+frozenset({'OLD_max_molto_caldo'});frozenset({'NEW_min_mite'});0.107043;0.384932;0.061597;0.575445;1.494928;0.020393;1.448737;0.370758
+frozenset({'OLD_min_freddo'});frozenset({'NEW_max_mite'});0.433287;0.347111;0.247793;0.571892;1.647577;0.097395;1.525056;0.693557
+frozenset({'OLD_min_freddo', 'OLD_max_freddo'});frozenset({'NEW_max_mite'});0.099819;0.347111;0.056681;0.567839;1.635902;0.022033;1.510755;0.431821
+frozenset({'OLD_min_molto_freddo'});frozenset({'NEW_max_mite'});0.114366;0.347111;0.063002;0.550877;1.587036;0.023304;1.453699;0.417661
+frozenset({'OLD_min_freddo', 'OLD_max_caldo'});frozenset({'NEW_max_caldo'});0.075943;0.308587;0.041734;0.549538;1.780816;0.018298;1.534895;0.474494
+frozenset({'OLD_max_freddo'});frozenset({'NEW_max_mite'});0.158206;0.347111;0.085875;0.542803;1.563774;0.03096;1.428025;0.428278
+frozenset({'OLD_max_caldo'});frozenset({'NEW_max_caldo'});0.353832;0.308587;0.184189;0.520556;1.686898;0.075001;1.442112;0.630171
+frozenset({'OLD_min_mite', 'OLD_max_caldo'});frozenset({'NEW_max_caldo'});0.267556;0.308587;0.138543;0.51781;1.678002;0.055979;1.433901;0.55165
+frozenset({'OLD_max_mite', 'OLD_min_mite'});frozenset({'NEW_max_caldo'});0.045445;0.308587;0.022974;0.505519;1.63817;0.00895;1.398258;0.408109
+frozenset({'OLD_min_molto_freddo', 'OLD_max_freddo'});frozenset({'NEW_max_mite'});0.052468;0.347111;0.026184;0.499044;1.437708;0.007972;1.303287;0.321307
+frozenset({'OLD_min_mite'});frozenset({'NEW_max_caldo'});0.395867;0.308587;0.182584;0.461227;1.494638;0.060425;1.283308;0.547796
+frozenset({'OLD_min_molto_freddo', 'OLD_max_freddo'});frozenset({'NEW_max_freddo'});0.052468;0.119884;0.024177;0.460803;3.843753;0.017887;1.632273;0.780805
+frozenset({'OLD_max_mite', 'OLD_min_freddo'});frozenset({'NEW_min_freddo', 'NEW_max_mite'});0.257524;0.224619;0.113162;0.439423;1.956308;0.055317;1.383185;0.658382
+frozenset({'OLD_min_mite', 'OLD_max_molto_caldo'});frozenset({'NEW_max_molto_caldo'});0.079354;0.141051;0.033909;0.427307;3.029444;0.022716;1.499842;0.727648
+frozenset({'OLD_max_molto_caldo'});frozenset({'NEW_min_caldo'});0.107043;0.113864;0.044944;0.419869;3.687447;0.032755;1.527475;0.816175
+frozenset({'OLD_min_caldo', 'OLD_max_molto_caldo'});frozenset({'NEW_max_caldo_estremo'});0.027689;0.083166;0.011537;0.416667;5.010052;0.009234;1.571715;0.823194
+frozenset({'OLD_min_mite', 'OLD_max_caldo'});frozenset({'NEW_min_mite', 'NEW_max_caldo'});0.267556;0.191814;0.110955;0.414698;2.161983;0.059634;1.380802;0.733792
+frozenset({'OLD_max_molto_caldo'});frozenset({'NEW_max_molto_caldo'});0.107043;0.141051;0.044041;0.411434;2.916909;0.028942;1.459392;0.735949
+frozenset({'OLD_max_freddo'});frozenset({'NEW_max_freddo'});0.158206;0.119884;0.064707;0.409004;3.411679;0.045741;1.48921;0.839742
+frozenset({'OLD_min_freddo'});frozenset({'NEW_min_freddo', 'NEW_max_mite'});0.433287;0.224619;0.173355;0.400093;1.781207;0.07603;1.292502;0.773906
+frozenset({'OLD_min_caldo'});frozenset({'NEW_max_caldo_estremo'});0.045245;0.083166;0.017857;0.394678;4.745664;0.014094;1.514623;0.826684
+frozenset({'OLD_min_freddo', 'OLD_max_freddo'});frozenset({'NEW_min_freddo', 'NEW_max_mite'});0.099819;0.224619;0.039025;0.390955;1.740526;0.016604;1.273109;0.47264
+frozenset({'OLD_min_caldo'});frozenset({'NEW_min_mite'});0.045245;0.384932;0.017657;0.390244;1.0138;0.00024;1.008712;0.014257
+frozenset({'OLD_max_mite'});frozenset({'NEW_min_freddo', 'NEW_max_mite'});0.369282;0.224619;0.142857;0.386851;1.722258;0.05991;1.264589;0.664903
+frozenset({'OLD_min_molto_freddo'});frozenset({'NEW_max_freddo'});0.114366;0.119884;0.043941;0.384211;3.204862;0.03023;1.429249;0.776815
+frozenset({'OLD_min_caldo', 'OLD_max_molto_caldo'});frozenset({'NEW_min_mite'});0.027689;0.384932;0.010534;0.380435;0.988317;-0.000125;0.992742;-0.012011
+frozenset({'OLD_min_freddo', 'OLD_max_freddo'});frozenset({'NEW_max_freddo'});0.099819;0.119884;0.037821;0.378894;3.160519;0.025854;1.417016;0.759399
+frozenset({'OLD_min_freddo', 'OLD_max_caldo'});frozenset({'NEW_max_mite'});0.075943;0.347111;0.028291;0.372523;1.073211;0.00193;1.040499;0.073823
+frozenset({'OLD_max_caldo'});frozenset({'NEW_min_mite', 'NEW_max_caldo'});0.353832;0.191814;0.130518;0.368869;1.923056;0.062648;1.280536;0.742833
+frozenset({'OLD_max_mite', 'OLD_min_mite'});frozenset({'NEW_max_mite'});0.045445;0.347111;0.016754;0.368653;1.062063;0.000979;1.034122;0.061218
+frozenset({'OLD_min_caldo', 'OLD_max_molto_caldo'});frozenset({'NEW_max_molto_caldo'});0.027689;0.141051;0.010132;0.365942;2.594388;0.006227;1.354685;0.632053
+frozenset({'OLD_min_caldo'});frozenset({'NEW_max_molto_caldo'});0.045245;0.141051;0.016453;0.363636;2.578042;0.010071;1.349776;0.641116
+frozenset({'OLD_max_freddo'});frozenset({'NEW_min_freddo', 'NEW_max_mite'});0.158206;0.224619;0.056882;0.359543;1.600683;0.021346;1.210669;0.445794
+frozenset({'OLD_min_mite'});frozenset({'NEW_min_mite', 'NEW_max_caldo'});0.395867;0.191814;0.141051;0.35631;1.857584;0.065119;1.255552;0.76418
+frozenset({'OLD_max_mite', 'OLD_min_molto_freddo'});frozenset({'NEW_min_freddo', 'NEW_max_mite'});0.060995;0.224619;0.021368;0.350329;1.55966;0.007668;1.193498;0.382144
+frozenset({'OLD_min_mite', 'OLD_max_molto_caldo'});frozenset({'NEW_min_caldo'});0.079354;0.113864;0.027789;0.35019;3.075498;0.018753;1.363683;0.733017
+frozenset({'OLD_min_freddo', 'OLD_max_caldo'});frozenset({'NEW_min_mite'});0.075943;0.384932;0.026485;0.348745;0.905992;-0.002748;0.944435;-0.100954
+frozenset({'OLD_max_mite', 'OLD_min_mite'});frozenset({'NEW_min_mite', 'NEW_max_caldo'});0.045445;0.191814;0.01565;0.344371;1.795339;0.006933;1.232688;0.464093
+frozenset({'OLD_max_molto_caldo'});frozenset({'NEW_max_caldo_estremo'});0.107043;0.083166;0.036116;0.337395;4.056875;0.027213;1.38368;0.843831
+frozenset({'OLD_min_molto_freddo'});frozenset({'NEW_min_freddo', 'NEW_max_mite'});0.114366;0.224619;0.038523;0.336842;1.499617;0.012835;1.169226;0.376186
+frozenset({'OLD_max_mite', 'OLD_min_molto_freddo'});frozenset({'NEW_max_freddo'});0.060995;0.119884;0.019663;0.322368;2.689011;0.012351;1.298813;0.668917
+frozenset({'OLD_min_molto_freddo', 'OLD_max_freddo'});frozenset({'NEW_min_freddo', 'NEW_max_mite'});0.052468;0.224619;0.016854;0.321224;1.430084;0.005069;1.142322;0.317393
+frozenset({'OLD_min_freddo', 'OLD_max_caldo'});frozenset({'NEW_min_freddo', 'NEW_max_caldo'});0.075943;0.083467;0.024077;0.317041;3.798394;0.017738;1.342003;0.797279
+frozenset({'OLD_max_mite', 'OLD_min_mite'});frozenset({'NEW_min_freddo'});0.045445;0.392456;0.014346;0.315673;0.804354;-0.003489;0.887798;-0.203069
+frozenset({'OLD_min_mite', 'OLD_max_molto_caldo'});frozenset({'NEW_max_caldo_estremo'});0.079354;0.083166;0.024579;0.309735;3.724287;0.017979;1.328234;0.794542

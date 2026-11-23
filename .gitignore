@@ -1,0 +1,17 @@
+# Input datasets: not redistributed (see data/README.md)
+clustering/data/
+association_rules/data/
+
+# Figures written by the association-rule notebooks
+association_rules/output/*.png
+
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini

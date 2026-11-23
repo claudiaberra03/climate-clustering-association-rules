@@ -1,0 +1,13 @@
+# Analysis (versions used to rerun the code)
+numpy==2.5.4
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.9.1
+mlxtend==0.25.0
+matplotlib==3.11.2
+# Maps of the stations (clustering notebooks only)
+geopandas
+contextily
+pyproj
+# Notebook interface
+jupyterlab
